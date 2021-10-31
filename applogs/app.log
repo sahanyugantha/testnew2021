@@ -1,0 +1,6 @@
+21:04:11.312 [main] FATAL com.sahan.test2021new.dao.CarDao - XXX THIS IS A FATAL LOG
+21:04:11.317 [main] ERROR com.sahan.test2021new.dao.CarDao - XXX THIS IS A ERROR LOG
+21:04:11.317 [main] WARN  com.sahan.test2021new.dao.CarDao - XXX THIS IS A WARN LOG
+21:04:11.318 [main] INFO  com.sahan.test2021new.dao.CarDao - XXX THIS IS A INFO LOG
+21:04:11.318 [main] DEBUG com.sahan.test2021new.dao.CarDao - XXX THIS IS A DEBUG LOG
+21:04:11.318 [main] TRACE com.sahan.test2021new.dao.CarDao - XXX THIS IS A TRACE LOG
